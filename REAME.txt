@@ -1,0 +1,18 @@
+CS584 Term Project
+
+By-
+Aakarshika Priydarshi,
+Prachi Gupta
+
+
+Sample json and txt files are present as an example
+Few of the models hat were trained are also present
+
+WRT report:
+Approach one- Op3_LSI.py,Op3_LSI_100.py
+Approach two- Op1_sentenceVec.py, Op1_sentenceVec_100.py
+Extra work- Op2_*.py
+
+Gen_*.py files for building models
+
+Other files for preprocessing data 
